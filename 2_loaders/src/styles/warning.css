@@ -1,0 +1,6 @@
+.warning {
+  padding: 20px;
+  width: calc(100% - 40px);
+  background-color: yellow;
+  counter-reset: #333;
+}
